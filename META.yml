@@ -1,0 +1,14 @@
+--- #YAML:1.0
+name:                Date-Lite
+version:             0.000_01
+abstract:            Simple date utility objects and functions.
+license:             Perl
+author:              
+    - John Drago <jdrago_999@yahoo.com>
+generated_by:        Hand
+distribution_type:   module
+requires:     
+    Test::More:                    0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
